@@ -1,0 +1,21 @@
+
+
+
+.header{
+    color: grey;
+    background-color: antiquewhite;
+    position: initial;
+    block-size: inherit;
+    border-block: 5px;
+}
+.nav{
+    color: grey;
+    background-color: antiquewhite;
+    position: relative;
+    block-size: inherit;
+    border-block: 5px;
+
+}
+
+
+
