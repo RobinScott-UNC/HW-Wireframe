@@ -1,0 +1,31 @@
+/* style.css */
+
+.wrapper{
+    background-color: white;
+    color: grey;
+    border-color: black;
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+
+}
+.box-nav{
+    color: grey;
+    background-color: white;
+    width: fit-content;
+    height: 50px;
+    border-block: full;
+    font-size: 18px;
+    text-align: center;
+}
+
+.aside{
+    color: grey;
+    background-color: white;
+    float: right;
+    width: 45%;
+    padding-block: 10px,10px,10px,10px;
+}
+
+
