@@ -1,21 +1,32 @@
+#style.css
 
-
-
-.header{
+.container{
+    background-color: white;
     color: grey;
-    background-color: antiquewhite;
-    position: initial;
-    block-size: inherit;
-    border-block: 5px;
-}
-.nav{
-    color: grey;
-    background-color: antiquewhite;
-    position: relative;
-    block-size: inherit;
-    border-block: 5px;
+    border-color: black;
+    width: 
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
 
 }
+.box-nav{
+    color: grey;
+    background-color: white;
+    width: fit-content;
+    height: 50px;
+    border-block: full;
+    font-size: 18px;
+    text-align: center;
+}
 
+.aside{
+    color: grey;
+    background-color: white;
+    float: right;
+    width: 45%;
+    padding-block: 10px,10px,10px,10px;
+    pADD
+}
 
 
